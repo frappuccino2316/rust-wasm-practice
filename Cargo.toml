@@ -1,7 +1,7 @@
 [package]
 name = "wasm-game-of-life"
 version = "0.1.0"
-authors = ["Frappuccino001 <fumi00hiro@icloud.com>"]
+authors = ["Frappuccino001 <frappuccino2316@gmail.com>"]
 edition = "2018"
 
 [lib]
